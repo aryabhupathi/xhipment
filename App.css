@@ -1,0 +1,45 @@
+*{
+  background-color: whitesmoke;
+  }
+button{
+  color: black;
+  font-size: large;
+  height: 30px;
+  width: 75px;
+  background-color: red;
+}
+.row{
+  margin: 20px;
+  height: 100px;
+  width: auto;
+  text-align: center;
+  background-color: palegreen;
+}
+.container{
+  float: left;
+  margin: 30px;
+  background-color: orange;
+}
+h1{
+  color:red;
+  text-align: center;
+  font-size: 40px;
+}
+form{
+  margin-top: 100px;
+  margin-left: 500px;
+  height:250px;
+  width: 500px;
+  border:5px solid black;
+  padding: 20px;
+  text-align: center;
+  background-image: linear-gradient(to right, yellow , pink);
+}
+h2{
+  background-color: wheat;
+}
+input{
+  width: 250px;
+  height: 25px;
+  background-color: wheat;
+}
